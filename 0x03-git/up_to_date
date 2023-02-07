@@ -1,0 +1,10 @@
+git push
+git checkout 
+git add .
+git commit -m
+git checkout -b
+git push --set-upstream origin 
+git clone
+cat ~/.gitconfig 
+git branch -a 
+
